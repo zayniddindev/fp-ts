@@ -1,0 +1,10 @@
+{
+  "name": "fp-ts",
+  "version": "1.0.0",
+  "description": "Getting started with fp-ts",
+  "main": "#",
+  "repository": "https://github.com/zayniddindev/fp-ts.git",
+  "author": "zayniddindev <zayniddindev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
